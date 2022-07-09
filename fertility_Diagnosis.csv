@@ -1,3 +1,4 @@
+Temporada en la que se realizo el analisis. 1) invierno. 2) primavera. 3) verano. 4) otono.,Edad en el momento del analisis 18-36,Enfermedades infantiles (varicela. sarampion. paperas. polio) 1) si. 2) no.,Accidente o traumatismo grave 1) si. 2) no. (0. 1),Intervencion quirurgica 1) si. 2) no.,Fiebre alta en el ultimo anio 1) hace menos de tres meses. 2) hace mas de tres meses. 3) no.,Frecuencia de consumo de alcohol 1) varias veces al dia. 2) todos los dias. 3) varias veces a la semana. 4) una vez a la semana. 5) casi nunca o nunca,Habito de fumar 1) nunca. 2) ocasionalmente 3) diariamente.,Numero de horas sentadas al dia ene-16 ,Salida Diagnostico normal (N). alterado (O)
 -0.33,0.69,0,1,1,0,0.8,0,0.88,N
 -0.33,0.94,1,0,1,0,0.8,1,0.31,O
 -0.33,0.5,1,0,0,0,1,-1,0.5,N
